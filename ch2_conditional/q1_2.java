@@ -1,3 +1,4 @@
+package ch2_conditional;
 import java.util.Scanner;
 
 public class q1_2 {

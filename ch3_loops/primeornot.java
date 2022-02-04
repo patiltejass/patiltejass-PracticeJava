@@ -1,3 +1,4 @@
+package ch3_loops;
 import java.util.Scanner;
 
 public class primeornot {

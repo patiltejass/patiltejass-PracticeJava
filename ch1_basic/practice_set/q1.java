@@ -1,4 +1,4 @@
-package practice_set;
+package ch1_basic.practice_set;
 import java.util.Scanner;
 
 public class q1 {

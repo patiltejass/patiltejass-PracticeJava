@@ -1,4 +1,4 @@
-package pattern;
+package ch3_loops.pattern;
 import java.util.Scanner;
 
 public class pattern3 {

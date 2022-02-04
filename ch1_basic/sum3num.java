@@ -1,3 +1,4 @@
+package ch1_basic;
 import java.util.Scanner;
 
 public class sum3num {
